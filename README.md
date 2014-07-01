@@ -10,10 +10,10 @@ Add this line to your application's Gemfile:
 gem 'jquery-titlealert-rails'
 ```
 
-or install it yourself with
+Or install it yourself with:
 
 ```ruby
-gem install jquery-titlealert-rails'
+gem install jquery-titlealert-rails
 ```
 
 And then execute:
@@ -31,6 +31,8 @@ Add the following to your javascript asset manifest
 ```
 
 And thats it!
+
+Head over to https://github.com/heyman/jquery-titlealert for usage.
 
 ## Contributing
 
